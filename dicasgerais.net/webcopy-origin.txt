@@ -1,0 +1,736 @@
+Uri: https://dicasgerais.net/comments/feed/
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dicasgerais.net/feed/
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://dicasgerais.net/op/
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\op\index-1.htm
+Content Type: text/html
+
+Uri: https://dicasgerais.net/op/?src=ad04op
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\op\index.htm
+Content Type: text/html
+
+Uri: https://dicasgerais.net/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.20.3
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://dicasgerais.net/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.20.3
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.20.3
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.20.3
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://dicasgerais.net/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.9.13
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://dicasgerais.net/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.9.13
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold-Italic.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Bold-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Bold.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular-Italic.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Regular-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/DMSans-Regular.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\dm-sans\DMSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Bold.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Italic.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Light.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Light.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/IBMPlexMono-Regular.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\ibm-plex-mono\IBMPlexMono-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/inter/Inter-VariableFont_slnt,wght.ttf
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\inter\Inter-VariableFont_slnt,wght.ttf
+Content Type: font/ttf
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\themes\twentytwentythree\assets\fonts\source-serif-pro\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://dicasgerais.net/wp-content/uploads/2024/02/Captura-de-tela-2024-02-22-004418.png
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\uploads\2024\02\Captura-de-tela-2024-02-22-004418.png
+Content Type: image/png
+
+Uri: https://dicasgerais.net/wp-content/uploads/elementor/css/global.css?ver=1711501781
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://dicasgerais.net/wp-content/uploads/elementor/css/post-6.css?ver=1711501225
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://dicasgerais.net/wp-content/uploads/elementor/css/post-60.css?ver=1711501849
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-content\uploads\elementor\css\post-60.css
+Content Type: text/css
+
+Uri: https://dicasgerais.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://dicasgerais.net/wp-json/
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://dicasgerais.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fdicasgerais.net%2Fop%2F
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://dicasgerais.net/wp-json/oembed/1.0/embed?url=https:%2F%2Fdicasgerais.net%2Fop%2F&format=xml
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://dicasgerais.net/wp-json/wp/v2/pages/60
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\wp-json\wp\v2\pages\60
+Content Type: application/json
+
+Uri: https://dicasgerais.net/xmlrpc.php?rsd
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.5.2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz0dL-vwnYh2eg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz0dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz4dL-vwnYh2eg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz4dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEz8dL-vwnYh2eg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEz8dL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdL-vwnYg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzMdL-vwnYh2eg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzMdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdL-vwnYh2eg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzwdL-vwnYh2eg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzwdL-vwnYh2eg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc0CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc1CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc2CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc3CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc5CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc0CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc1CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc2CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc3CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc5CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc0CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc1CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc2CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc3CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc5CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic0CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic0CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic1CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic1CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic2CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic2CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic3CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic3CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic5CsTYl4BOQ3o.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic5CsTYl4BOQ3o.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsTYl4BO.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxEIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxEIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxFIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxFIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxGIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxGIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxHIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxHIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzIXKMny.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxLIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxLIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xEIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xEIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xFIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xGIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xGIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xHIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xHIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzIXKMny.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xLIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xLIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzIXKMnyrYk.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzIXKMnyrYk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCBc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCRc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4AMP6lbBP.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCxc4AMP6lbBP.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOmCnqEu92Fr1Mu4WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOmCnqEu92Fr1Mu72xKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOmCnqEu92Fr1Mu7mxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\roboto\v30\KFOmCnqEu92Fr1Mu7WxKKTU1Kvnz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4OmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RjV9Ku1Q.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2RjV9Ku1Q.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmbGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmbGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmY2RjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmY2RjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYGRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYGRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYmRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYmRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYWRjV9Ku1e6i.woff2
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmYWRjV9Ku1e6i.woff2
+Content Type: font/woff2
+
+Uri: https://images.converteai.net/ec4502f9-421b-4591-a283-b387cc3f5b38/players/6600e0296ec382000894acb1/thumbnail.jpg
+File Name: C:\Users\david\OneDrive\Área de Trabalho\dicasgerais.net\ec4502f9-421b-4591-a283-b387cc3f5b38\players\6600e0296ec382000894acb1\thumbnail.jpg
+Content Type: image/jpeg
+
